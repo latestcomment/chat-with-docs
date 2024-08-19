@@ -22,7 +22,7 @@
     <td align="left">gpt-3.5-turbo or llama3.1:latest</td>
   </tr>
   <tr>
-    <td align="left">Web / Display</td>
+    <td align="left">App (web)</td>
     <td align="left">Streamlit</td>
   </tr>
 </table>
